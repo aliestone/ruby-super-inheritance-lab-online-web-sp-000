@@ -1,10 +1,7 @@
 class Student
 
-def hello(greeting)
-  greeting
+def hello
+  "hello"
 end
 
 end
-
-
-  
