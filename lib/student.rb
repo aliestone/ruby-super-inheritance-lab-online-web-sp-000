@@ -1,7 +1,7 @@
 class Student
 
 def hello(greeting)
-  gretting
+  greeting
 end
 
 end
